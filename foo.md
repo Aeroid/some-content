@@ -7,6 +7,6 @@
 
 [Beschriftung des Hyperlinks](https://de.wikipedia.org/ "Titel, der beim Überfahren mit der Maus angezeigt wird")
 
-![nur ein Beispiel](https://commons.wikimedia.org/wiki/File:Example_de.jpg "Beispielbild")
+![nur ein Beispiel](https://upload.wikimedia.org/wikipedia/commons/d/d9/Example_de.jpg "Beispielbild")
 
 

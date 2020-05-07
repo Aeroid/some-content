@@ -1,4 +1,4 @@
-![Some Content](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "") Some Content
+![Some Content](https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg "") Some Content
 
 [&#9776;](#menu)
 

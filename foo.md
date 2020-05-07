@@ -10,3 +10,5 @@
 ![nur ein Beispiel](https://upload.wikimedia.org/wikipedia/commons/d/d9/Example_de.jpg "Beispielbild")
 
 
+Render [this page][this] using Helix Pages
+[this]: https://some-content-aeroid.project-helix.page/foo.html
